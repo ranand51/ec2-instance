@@ -6,6 +6,7 @@ variable "secret_key" {
   type        = string
   description = "AWS Secret Key"
 }
+/*
 variable "ami" {
   type = string
   description = "AMI"
@@ -36,3 +37,4 @@ variable "tags" {
   default     = []
   description = "Tags"
 }
+*/
